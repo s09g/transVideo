@@ -1,0 +1,13 @@
+app.log
+*.mp4
+*.srt
+*.json
+video/
+.venv/
+.idea/
+__pycache__/
+test_sample/
+*.xml
+*.iml
+test.py
+split_caption_manual.py

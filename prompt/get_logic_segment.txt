@@ -1,0 +1,5 @@
+You are a computer scientist. I have a subtitled text for the a CS course. The SRT subtitles contain the "index, text". 
+Split the provided subtitle text based on logical segmentation at the finest granularity, only return the start and end index for each segment in a JSON output, for example :
+```
+{"segments":[[1, 4],[5, 9],[10, 13]]}
+```
